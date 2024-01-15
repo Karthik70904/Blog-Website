@@ -1,2 +1,3 @@
 # Blog-Website
-Full Stack Web Development Project
+
+## for index.html , style.css and main.js follow up with the video
